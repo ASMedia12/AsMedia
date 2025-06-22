@@ -325,7 +325,13 @@ body {
     background-position: center;
     background-repeat: no-repeat;
 }
-
+body {
+    background-image: url('images/filmachtergrond.jpg'); /* Vervang met jouw bestandsnaam */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
 .overlay {
     position: fixed;
     top: 0;
