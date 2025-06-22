@@ -342,3 +342,9 @@ body {
     z-index: -1;
     backdrop-filter: blur(2px);
 }
+body {
+    background-image: url('images/filmachtergrond.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
