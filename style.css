@@ -190,3 +190,7 @@ footer {
     text-shadow: 0 0 5px #bbddff;
     border-top: 1px solid #a0c8ff;
 }
+header, footer {
+    max-width: 1100px;
+    margin: 0 auto;
+}
